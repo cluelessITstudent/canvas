@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://Course_ID1" type="http://adlnet.gov/expapi/activities/course">
+			<name>Captivate E-Learning Course</name>
+			<description lang="en-US">Course Description.</description>
+			<launch lang="en-US">index.html</launch>
+		</activity>
+	</activities>
+</tincan>
